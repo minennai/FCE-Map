@@ -37,5 +37,19 @@
   },
   "devDependencies": {
     "use-resize-observer": "^7.0.0"
+  },
+  "description": "Mapa de materias y sus correlativas de la Facultad de Ciencias Económicas",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minennai/FCE-Map.git"
+  },
+  "author": "minennai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minennai/FCE-Map/issues"
   }
 }
