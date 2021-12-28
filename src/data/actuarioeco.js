@@ -150,7 +150,7 @@ export const actuarioeco = [
     id: "289",
     materia: "Epistemología de la Economía",
     creditos: 2,
-    correlativas: "244-262-290",
+    correlativas: "262-290",
     categoria: "Materias Obligatorias",
     level: 3,
   },
