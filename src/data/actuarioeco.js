@@ -359,7 +359,7 @@ export const actuarioeco = [
     id: "759",
     materia: "Seminario de Integración y aplicación",
     creditos: 1,
-    correlativas: "754-755-756 757-758",
+    correlativas: "",
     // Poner "requiere X creditos" y cambiar todos los creditos de las
     // materias para que Seminario se pueda hacer cuando falten las
     // ultimas 5 materias de la carrera.
