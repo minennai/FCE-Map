@@ -155,14 +155,6 @@ export const actuarioeco = [
     level: 3,
   },
   {
-    id: "279",
-    materia: "Administración Financiera",
-    creditos: 6,
-    correlativas: "252-276",
-    categoria: "Materias Obligatorias",
-    level: 3,
-  },
-  {
     id: "285",
     materia: "Estadística II",
     creditos: 6,
