@@ -3,7 +3,6 @@ import {
   ChatIcon,
   CheckIcon,
   ExternalLinkIcon,
-  Icon,
   MoonIcon,
   SunIcon,
 } from "@chakra-ui/icons";
