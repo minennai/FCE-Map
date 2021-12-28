@@ -120,7 +120,7 @@ export const economia = [
     creditos: 6,
     correlativas: "288-290",
     categoria: "Materias Obligatorias",
-    level: 3,
+    level: 4,
   },
   {
     id: "287",
@@ -152,7 +152,7 @@ export const economia = [
     creditos: 6,
     correlativas: "284",
     categoria: "Materias Obligatorias",
-    level: 4,
+    level: 2,
   },
   {
     id: "551",
