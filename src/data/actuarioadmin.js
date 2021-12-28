@@ -125,10 +125,10 @@ export const actuarioadmin = [
   {
     id: "275",
     materia: "Tecnología de la Información",
-    creditos: 8,
-    correlativas: "247",
+    creditos: 6,
+    correlativas: "274",
     categoria: "Materias Obligatorias",
-    level: 2,
+    level: 3,
   },
   {
     id: "276",
@@ -152,7 +152,7 @@ export const actuarioadmin = [
     creditos: 6,
     correlativas: "250",
     categoria: "Materias Obligatorias",
-    level: 3,
+    level: 2,
   },
   {
     id: "279",
@@ -184,7 +184,7 @@ export const actuarioadmin = [
     creditos: 6,
     correlativas: "278-288",
     categoria: "Materias Obligatorias",
-    level: 4,
+    level: 3,
   },
   {
     id: "751",
@@ -248,7 +248,7 @@ export const actuarioadmin = [
     creditos: 4,
     correlativas: "276-751",
     categoria: "Materias Obligatorias",
-    level: 6,
+    level: 5,
   },
   {
     id: "721",
