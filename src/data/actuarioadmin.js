@@ -237,8 +237,8 @@ export const actuarioadmin = [
   {
     id: "757",
     materia: "Teoría de Equilibrio Actuarial",
-    creditos: 6,
-    correlativas: "754-751",
+    creditos: 4,
+    correlativas: "754-755",
     categoria: "Materias Obligatorias",
     level: 5,
   },
