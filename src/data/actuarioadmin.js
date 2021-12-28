@@ -22,14 +22,14 @@ export const actuarioadmin = [
   },
   {
     id: "244",
-    materia: "Metodología de las Ciencias Sociales	",
+    materia: "Metodología de las Ciencias Sociales",
     creditos: 0,
     categoria: "*CBC",
     level: -1,
   },
   {
     id: "246",
-    materia: "Historia Económica y Social General	",
+    materia: "Historia Económica y Social General",
     creditos: 0,
     categoria: "*CBC",
     level: -1,
@@ -108,7 +108,7 @@ export const actuarioadmin = [
   },
   {
     id: "273",
-    materia: "Instituciones del Derecho Privado	",
+    materia: "Instituciones del Derecho Privado",
     creditos: 4,
     correlativas: "CBC",
     categoria: "Materias Obligatorias",
@@ -116,7 +116,7 @@ export const actuarioadmin = [
   },
   {
     id: "274",
-    materia: "Sistemas Administrativos	",
+    materia: "Sistemas Administrativos",
     creditos: 4,
     correlativas: "252",
     categoria: "Materias Obligatorias",
@@ -133,7 +133,7 @@ export const actuarioadmin = [
   {
     id: "276",
     materia: "Cálculo Financiero",
-    creditos: 8,
+    creditos: 4,
     correlativas: "248",
     categoria: "Materias Obligatorias",
     level: 2,
@@ -359,7 +359,7 @@ export const actuarioadmin = [
     id: "759",
     materia: "Seminario de Integración y aplicación",
     creditos: 1,
-    correlativas: "",
+    correlativas: "754-755-756 757-758",
     // Poner "requiere X creditos" y cambiar todos los creditos de las
     // materias para que Seminario se pueda hacer cuando falten las
     // ultimas 5 materias de la carrera.
