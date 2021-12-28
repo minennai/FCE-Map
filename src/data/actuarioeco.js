@@ -91,7 +91,7 @@ export const actuarioeco = [
     level: 1,
   },
   {
-    id: "262",
+    id: "261",
     materia: "Teoría Política y Derecho Público",
     creditos: 6,
     correlativas: "CBC",
