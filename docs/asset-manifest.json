@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/FCE-Map/static/js/main.9745aac3.js",
+    "main.js": "/FCE-Map/static/js/main.ae8a70e9.js",
     "index.html": "/FCE-Map/index.html",
-    "main.9745aac3.js.map": "/FCE-Map/static/js/main.9745aac3.js.map"
+    "main.ae8a70e9.js.map": "/FCE-Map/static/js/main.ae8a70e9.js.map"
   },
   "entrypoints": [
-    "static/js/main.9745aac3.js"
+    "static/js/main.ae8a70e9.js"
   ]
 }
