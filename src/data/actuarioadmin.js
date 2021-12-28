@@ -61,10 +61,10 @@ export const actuarioadmin = [
   {
     id: "284",
     materia: "Análisis Matemático II",
-    creditos: 8,
+    creditos: 6,
     correlativas: "CBC",
     categoria: "Materias Obligatorias",
-    level: 1,
+    level: 2,
   },
   {
     id: "248",
@@ -112,7 +112,7 @@ export const actuarioadmin = [
     creditos: 4,
     correlativas: "CBC",
     categoria: "Materias Obligatorias",
-    level: 1,
+    level: 2,
   },
   {
     id: "274",
