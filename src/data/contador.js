@@ -104,7 +104,7 @@ export const contador = [
     creditos: 4,
     correlativas: "CBC",
     categoria: "Materias Obligatorias",
-    level: 2,
+    level: 3,
   },
   {
     id: "274",
@@ -136,7 +136,7 @@ export const contador = [
     creditos: 6,
     correlativas: "250",
     categoria: "Materias Obligatorias",
-    level: 2,
+    level: 3,
   },
   {
     id: "279",
@@ -152,7 +152,7 @@ export const contador = [
     creditos: 6,
     correlativas: "247",
     categoria: "Materias Obligatorias",
-    level: 5,
+    level: 2,
   },
   {
     id: "353",
@@ -160,7 +160,7 @@ export const contador = [
     creditos: 4,
     correlativas: "247",
     categoria: "Materias Obligatorias",
-    level: 5,
+    level: 2,
   },
   {
     id: "354",
@@ -168,7 +168,7 @@ export const contador = [
     creditos: 4,
     correlativas: "251-1359",
     categoria: "Materias Obligatorias",
-    level: 5,
+    level: 3,
   },
   {
     id: "355",
@@ -184,7 +184,7 @@ export const contador = [
     creditos: 6,
     correlativas: "251-1352",
     categoria: "Materias Obligatorias",
-    level: 6,
+    level: 4,
   },
   {
     id: "357",
@@ -192,7 +192,7 @@ export const contador = [
     creditos: 6,
     correlativas: "356",
     categoria: "Materias Obligatorias",
-    level: 6,
+    level: 5,
   },
   {
     id: "362",
@@ -200,7 +200,7 @@ export const contador = [
     creditos: 6,
     correlativas: "353",
     categoria: "Materias Obligatorias",
-    level: 6,
+    level: 3,
   },
   {
     id: "1330",
@@ -224,7 +224,7 @@ export const contador = [
     creditos: 4,
     correlativas: "*CBC",
     categoria: "Materias Obligatorias",
-    level: 8,
+    level: 2,
   },
   {
     id: "1360",
@@ -240,7 +240,7 @@ export const contador = [
     creditos: 4,
     correlativas: "278-1352",
     categoria: "Materias Obligatorias",
-    level: 8,
+    level: 4,
   },
   // Electivas
   {
