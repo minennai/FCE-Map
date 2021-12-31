@@ -259,7 +259,7 @@ export const actuarioeco = [
   {
     id: "786",
     materia: "Derecho de Seguros",
-    creditos: 6,
+    creditos: 4,
     correlativas: "",
     categoria: "Materias Electivas",
   },

@@ -226,6 +226,7 @@ export const administracion = [
     categoria: "Materias Obligatorias",
     level: 5,
   },
+  // Electivas
   {
     id: "721",
     materia: "Poder Económico y Derechos Humanos",
