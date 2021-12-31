@@ -411,7 +411,7 @@ export const economia = [
     id: "562",
     materia: "Seminario de Integración y aplicación",
     creditos: 1,
-    correlativas: "",
+    correlativas: "286-289-551-558",
     categoria: "Fin de Carrera (Obligatorio)",
   },
   {
