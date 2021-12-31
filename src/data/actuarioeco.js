@@ -96,7 +96,7 @@ export const actuarioeco = [
     creditos: 6,
     correlativas: "",
     categoria: "Materias Obligatorias",
-    level: 2,
+    level: 4,
   },
   {
     id: "273",
@@ -104,7 +104,7 @@ export const actuarioeco = [
     creditos: 4,
     correlativas: "",
     categoria: "Materias Obligatorias",
-    level: 1,
+    level: 2,
   },
   {
     id: "276",
