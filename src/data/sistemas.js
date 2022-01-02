@@ -160,7 +160,7 @@ export const sistemas = [
     creditos: 4,
     correlativas: "1275",
     categoria: "Materias Obligatorias",
-    level: 2,
+    level: 3,
   },
   {
     id: "655",
@@ -224,7 +224,7 @@ export const sistemas = [
     creditos: 4,
     correlativas: "651",
     categoria: "Materias Obligatorias",
-    level: 3,
+    level: 4,
   },
   {
     id: "1653",
