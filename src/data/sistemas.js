@@ -91,6 +91,14 @@ export const sistemas = [
     level: 1,
   },
   {
+    id: "252",
+    materia: "Administración general",
+    creditos: 4,
+    correlativas: "CBC",
+    categoria: "Materias Obligatorias",
+    level: 1,
+  },
+  {
     id: "274",
     materia: "Sistemas Administrativos",
     creditos: 4,
