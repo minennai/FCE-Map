@@ -198,9 +198,9 @@ export const sistemas = [
     id: "1603",
     materia: "Derecho Informático I",
     creditos: 4,
-    correlativas: "",
+    correlativas: "*CBC",
     categoria: "Materias Obligatorias",
-    level: 4,
+    level: 3,
   },
   {
     id: "1604",
