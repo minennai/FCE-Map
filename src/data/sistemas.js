@@ -118,7 +118,7 @@ export const sistemas = [
     id: "278",
     materia: "Macroeconomía y Política Económica",
     creditos: 6,
-    correlativas: "",
+    correlativas: "*CBC",
     categoria: "Materias Obligatorias",
     level: 2,
   },
@@ -205,10 +205,10 @@ export const sistemas = [
   {
     id: "1604",
     materia: "Derecho Informático II",
-    creditos: 4,
+    creditos: 6,
     correlativas: "1603",
     categoria: "Materias Obligatorias",
-    level: 5,
+    level: 4,
   },
   {
     id: "1652",
