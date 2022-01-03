@@ -2,7 +2,7 @@ import CARRERAS from "./carreras";
 import { COLORS } from "./theme";
 
 export const USER_FORM =
-  "https://docs.google.com/forms/d/e/1FAIpQLSdJJNbo0937o6Lb68d9mv6ODu6AGgLBNaiX1Soxc_78-UXndg/viewform?usp=sf_link";
+  "https://docs.google.com/forms/d/e/1FAIpQLSdJJNbo0937o6Lb68d9mv6ODu6AGgLBNaiX1Soxc_78-UXndg/formResponse";
 
 export const USER_FORM_ENTRIES = {
   padron: "entry.657244342",
@@ -12,7 +12,7 @@ export const USER_FORM_ENTRIES = {
 };
 
 export const GRAPH_FORM =
-  "https://docs.google.com/forms/d/e/1FAIpQLSfyhLgA-d-ZpjH3sEO7cnCuaVFkd1coNQrZRvOMLCW_OyJjRA/viewform?usp=sf_link";
+  "https://docs.google.com/forms/d/e/1FAIpQLSfyhLgA-d-ZpjH3sEO7cnCuaVFkd1coNQrZRvOMLCW_OyJjRA/formResponse";
 
 export const GRAPH_FORM_ENTRIES = {
   padron: "entry.1632426062",
@@ -21,7 +21,7 @@ export const GRAPH_FORM_ENTRIES = {
 };
 
 export const BUGS_FORM =
-  "https://docs.google.com/forms/d/e/1FAIpQLSdZQBp3MGItCF_qKEZuHwx5D4QOYe8UXH6LX01LFgfpP1eHRg/viewform?usp=sf_link";
+  "https://docs.google.com/forms/d/e/1FAIpQLSdZQBp3MGItCF_qKEZuHwx5D4QOYe8UXH6LX01LFgfpP1eHRg/formResponse";
 
 export const BUGS_FORM_ENTRIES = {
   padron: "entry.361294849",
@@ -32,7 +32,7 @@ export const BUGS_FORM_ENTRIES = {
 };
 
 export const SPREADSHEET =
-  "https://docs.google.com/spreadsheets/d/1OBZL-dAMRjgDdhmbl11DADyjYK1fzCuNIv7tvkszzu0/edit#gid=0";
+  "https://sheets.googleapis.com/v4/spreadsheets/1OBZL-dAMRjgDdhmbl11DADyjYK1fzCuNIv7tvkszzu0/values";
 
 export const SHEETS = {
   user: "usuarios",
