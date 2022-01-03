@@ -128,7 +128,7 @@ export const sistemas = [
     creditos: 6,
     correlativas: "CBC",
     categoria: "Materias Obligatorias",
-    level: 2,
+    level: 1,
   },
   {
     id: "279",

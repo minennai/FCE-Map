@@ -5,30 +5,30 @@ export const USER_FORM =
   "https://docs.google.com/forms/d/e/1FAIpQLSdJJNbo0937o6Lb68d9mv6ODu6AGgLBNaiX1Soxc_78-UXndg/viewform?usp=sf_link";
 
 export const USER_FORM_ENTRIES = {
-  padron: "entry.1608351524",
-  carrera: "entry.1130086596",
-  orientacion: "entry.1483291801",
-  finDeCarrera: "entry.310979509",
+  padron: "entry.657244342",
+  carrera: "entry.979688332",
+  orientacion: "entry.659577924",
+  finDeCarrera: "entry.347359543",
 };
 
 export const GRAPH_FORM =
   "https://docs.google.com/forms/d/e/1FAIpQLSfyhLgA-d-ZpjH3sEO7cnCuaVFkd1coNQrZRvOMLCW_OyJjRA/viewform?usp=sf_link";
 
 export const GRAPH_FORM_ENTRIES = {
-  padron: "entry.2064135385",
-  carrera: "entry.977368567",
-  map: "entry.2113204957",
+  padron: "entry.1632426062",
+  carrera: "entry.982143349",
+  map: "entry.151179448",
 };
 
 export const BUGS_FORM =
   "https://docs.google.com/forms/d/e/1FAIpQLSdZQBp3MGItCF_qKEZuHwx5D4QOYe8UXH6LX01LFgfpP1eHRg/viewform?usp=sf_link";
 
 export const BUGS_FORM_ENTRIES = {
-  padron: "entry.108884877",
-  carrera: "entry.30310619",
-  orientacion: "entry.2052513370",
-  finDeCarrera: "entry.1835776497",
-  bug: "entry.817568535",
+  padron: "entry.361294849",
+  carrera: "entry.784231061",
+  orientacion: "entry.1472878618",
+  finDeCarrera: "entry.914097257",
+  bug: "entry.200735557",
 };
 
 export const SPREADSHEET =
@@ -39,7 +39,7 @@ export const SHEETS = {
   registros: "registros",
 };
 
-export const KEY = "AIzaSyA9snz4CXDq_K8fJeUXkRtRZAQM90HTFp4";
+export const KEY = "4/0AX4XfWiXTMWotfsNTQ4lrq14QUJOARrbs6O3j3MKomxNiuhwb8CQwip_AXvYwtLH9BW4lQ";
 
 export const GRUPOS = {
   Aprobadas: { color: COLORS.aprobadas[400] },
