@@ -141,7 +141,7 @@ export const economia = [
   {
     id: "289",
     materia: "Epistemología de la Economía",
-    creditos: 6,
+    creditos: 2,
     correlativas: "262-290",
     categoria: "Materias Obligatorias",
     level: 3,
@@ -205,7 +205,7 @@ export const economia = [
   {
     id: "557",
     materia: "Estructura Social Argentina",
-    creditos: 6,
+    creditos: 2,
     correlativas: "249-561",
     categoria: "Materias Obligatorias",
     level: 3,
